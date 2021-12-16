@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-brand{
+    font-weight: bold;
+    padding: 50px;
+    font-size: 3em;
+    color: #fff !important;
+    font-style: oblique;
+}
+
+.navbar-nav{
+    padding-left: 100px;
+}
+
+.nav-link{
+    font-weight: bold;
+    color: #fff !important;
+    font-style: oblique;
+    transform: translateY(-20%);
+    border-radius: 20px;
+}
+.nav-link:hover{
+    background-color: #3498db;
+    transform: translateY(-20%);
+    border-radius: 20px;
+}
+
+.remove{
+    margin: 0;
+    padding: 0;
+}
+
+.img-parent{
+    position: relative;
+}
+.remove img{
+    height: 100%;
+    width: 100%;
+}
